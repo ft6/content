@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with matplotlib (https://matplotlib.org/) -->
+<svg height="142.108438pt" version="1.1" viewBox="0 0 295.257812 142.108438" width="295.257812pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+*{stroke-linecap:butt;stroke-linejoin:round;white-space:pre;}
+  </style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 142.108438 
+L 295.257812 142.108438 
+L 295.257812 0 
+L 0 0 
+z
+" style="fill:#ffffff;"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 16.257812 125.7225 
+L 295.257812 125.7225 
+L 295.257812 14.8425 
+L 16.257812 14.8425 
+z
+" style="fill:#ffffff;"/>
+   </g>
+   <g id="QuadMesh_1">
+    <path clip-path="url(#p2b4805b6a7)" d="M 16.257812 14.8425 
+L 109.257812 14.8425 
+L 109.257812 70.2825 
+L 16.257812 70.2825 
+L 16.257812 14.8425 
+" style="fill:#cfecc9;"/>
+    <path clip-path="url(#p2b4805b6a7)" d="M 109.257812 14.8425 
+L 202.257812 14.8425 
+L 202.257812 70.2825 
+L 109.257812 70.2825 
+L 109.257812 14.8425 
+" style="fill:#65bd6f;"/>
+    <path clip-path="url(#p2b4805b6a7)" d="M 202.257812 14.8425 
+L 295.257812 14.8425 
+L 295.257812 70.2825 
+L 202.257812 70.2825 
+L 202.257812 14.8425 
+" style="fill:#62bb6d;"/>
+    <path clip-path="url(#p2b4805b6a7)" d="M 16.257812 70.2825 
+L 109.257812 70.2825 
+L 109.257812 125.7225 
+L 16.257812 125.7225 
+L 16.257812 70.2825 
+" style="fill:#cdecc7;"/>
+    <path clip-path="url(#p2b4805b6a7)" d="M 109.257812 70.2825 
+L 202.257812 70.2825 
+L 202.257812 125.7225 
+L 109.257812 125.7225 
+L 109.257812 70.2825 
+" style="fill:#2e964d;"/>
+    <path clip-path="url(#p2b4805b6a7)" d="M 202.257812 70.2825 
+L 295.257812 70.2825 
+L 295.257812 125.7225 
+L 202.257812 125.7225 
+L 202.257812 70.2825 
+" style="fill:#c3e7bc;"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path d="M 0 0 
+L 0 3.5 
+" id="mde89191429" style="stroke:#000000;stroke-width:0.8;"/>
+      </defs>
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="62.757812" xlink:href="#mde89191429" y="125.7225"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-family:Helvetica;font-size:10px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 62.757812, 139.895938)" x="62.757812" y="139.895938">negative</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="155.757812" xlink:href="#mde89191429" y="125.7225"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-family:Helvetica;font-size:10px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 155.757812, 139.895938)" x="155.757812" y="139.895938">neutral</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="248.757812" xlink:href="#mde89191429" y="125.7225"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-family:Helvetica;font-size:10px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 248.757812, 139.895938)" x="248.757812" y="139.895938">positive</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_4">
+      <defs>
+       <path d="M 0 0 
+L -3.5 0 
+" id="maac9ebc8a6" style="stroke:#000000;stroke-width:0.8;"/>
+      </defs>
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="16.257812" xlink:href="#maac9ebc8a6" y="42.5625"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-family:Helvetica;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(7.173437 78.992969)rotate(-90)">precision</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_5">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="16.257812" xlink:href="#maac9ebc8a6" y="98.0025"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-family:Helvetica;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(7.173437 118.311094)rotate(-90)">recall</text>
+     </g>
+    </g>
+   </g>
+   <g id="text_6">
+    <text style="fill:#262626;font-family:Helvetica;font-size:10px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 62.757812, 45.107031)" x="62.757812" y="45.107031">27.427%</text>
+   </g>
+   <g id="text_7">
+    <text style="fill:#ffffff;font-family:Helvetica;font-size:10px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 155.757812, 45.107031)" x="155.757812" y="45.107031">53.065%</text>
+   </g>
+   <g id="text_8">
+    <text style="fill:#ffffff;font-family:Helvetica;font-size:10px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 248.757812, 45.107031)" x="248.757812" y="45.107031">53.534%</text>
+   </g>
+   <g id="text_9">
+    <text style="fill:#262626;font-family:Helvetica;font-size:10px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 62.757812, 100.547031)" x="62.757812" y="100.547031">28.035%</text>
+   </g>
+   <g id="text_10">
+    <text style="fill:#ffffff;font-family:Helvetica;font-size:10px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 155.757812, 100.547031)" x="155.757812" y="100.547031">66.375%</text>
+   </g>
+   <g id="text_11">
+    <text style="fill:#262626;font-family:Helvetica;font-size:10px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 248.757812, 100.547031)" x="248.757812" y="100.547031">31.048%</text>
+   </g>
+   <g id="text_12">
+    <text style="font-family:Helvetica;font-size:12px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 155.757812, 8.8425)" x="155.757812" y="8.8425">Count KNeighbors 45</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p2b4805b6a7">
+   <rect height="110.88" width="279" x="16.257812" y="14.8425"/>
+  </clipPath>
+ </defs>
+</svg>

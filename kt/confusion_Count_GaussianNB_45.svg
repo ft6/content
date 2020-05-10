@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with matplotlib (https://matplotlib.org/) -->
+<svg height="182.875313pt" version="1.1" viewBox="0 0 308.64375 182.875313" width="308.64375pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+*{stroke-linecap:butt;stroke-linejoin:round;white-space:pre;}
+  </style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 182.875313 
+L 308.64375 182.875313 
+L 308.64375 0 
+L 0 0 
+z
+" style="fill:#ffffff;"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 29.64375 153.208125 
+L 308.64375 153.208125 
+L 308.64375 14.608125 
+L 29.64375 14.608125 
+z
+" style="fill:#ffffff;"/>
+   </g>
+   <g id="QuadMesh_1">
+    <path clip-path="url(#p689f4ac8bd)" d="M 29.64375 14.608125 
+L 122.64375 14.608125 
+L 122.64375 60.808125 
+L 29.64375 60.808125 
+L 29.64375 14.608125 
+" style="fill:#e4eff9;"/>
+    <path clip-path="url(#p689f4ac8bd)" d="M 122.64375 14.608125 
+L 215.64375 14.608125 
+L 215.64375 60.808125 
+L 122.64375 60.808125 
+L 122.64375 14.608125 
+" style="fill:#b3d3e8;"/>
+    <path clip-path="url(#p689f4ac8bd)" d="M 215.64375 14.608125 
+L 308.64375 14.608125 
+L 308.64375 60.808125 
+L 215.64375 60.808125 
+L 215.64375 14.608125 
+" style="fill:#eef5fc;"/>
+    <path clip-path="url(#p689f4ac8bd)" d="M 29.64375 60.808125 
+L 122.64375 60.808125 
+L 122.64375 107.008125 
+L 29.64375 107.008125 
+L 29.64375 60.808125 
+" style="fill:#e7f1fa;"/>
+    <path clip-path="url(#p689f4ac8bd)" d="M 122.64375 60.808125 
+L 215.64375 60.808125 
+L 215.64375 107.008125 
+L 122.64375 107.008125 
+L 122.64375 60.808125 
+" style="fill:#1460a8;"/>
+    <path clip-path="url(#p689f4ac8bd)" d="M 215.64375 60.808125 
+L 308.64375 60.808125 
+L 308.64375 107.008125 
+L 215.64375 107.008125 
+L 215.64375 60.808125 
+" style="fill:#dae8f6;"/>
+    <path clip-path="url(#p689f4ac8bd)" d="M 29.64375 107.008125 
+L 122.64375 107.008125 
+L 122.64375 153.208125 
+L 29.64375 153.208125 
+L 29.64375 107.008125 
+" style="fill:#f3f8fe;"/>
+    <path clip-path="url(#p689f4ac8bd)" d="M 122.64375 107.008125 
+L 215.64375 107.008125 
+L 215.64375 153.208125 
+L 122.64375 153.208125 
+L 122.64375 107.008125 
+" style="fill:#a1cbe2;"/>
+    <path clip-path="url(#p689f4ac8bd)" d="M 215.64375 107.008125 
+L 308.64375 107.008125 
+L 308.64375 153.208125 
+L 215.64375 153.208125 
+L 215.64375 107.008125 
+" style="fill:#c3daee;"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path d="M 0 0 
+L 0 3.5 
+" id="md62eefac63" style="stroke:#000000;stroke-width:0.8;"/>
+      </defs>
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="76.14375" xlink:href="#md62eefac63" y="153.208125"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-family:Helvetica;font-size:10px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 76.14375, 167.381563)" x="76.14375" y="167.381563">negative</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="169.14375" xlink:href="#md62eefac63" y="153.208125"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-family:Helvetica;font-size:10px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 169.14375, 167.381563)" x="169.14375" y="167.381563">neutral</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="262.14375" xlink:href="#md62eefac63" y="153.208125"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-family:Helvetica;font-size:10px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 262.14375, 167.381563)" x="262.14375" y="167.381563">positive</text>
+     </g>
+    </g>
+    <g id="text_4">
+     <text style="font-family:Helvetica;font-size:10px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 169.14375, 180.790938)" x="169.14375" y="180.790938">predicted labels</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_4">
+      <defs>
+       <path d="M 0 0 
+L -3.5 0 
+" id="md152cf3a11" style="stroke:#000000;stroke-width:0.8;"/>
+      </defs>
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="29.64375" xlink:href="#md152cf3a11" y="37.708125"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-family:Helvetica;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(20.43125 71.926094)rotate(-90)">negative</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_5">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="29.64375" xlink:href="#md152cf3a11" y="83.908125"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-family:Helvetica;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(20.559375 110.894844)rotate(-90)">neutral</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_6">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="29.64375" xlink:href="#md152cf3a11" y="130.108125"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font-family:Helvetica;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(20.559375 160.426094)rotate(-90)">positive</text>
+     </g>
+    </g>
+    <g id="text_8">
+     <text style="font-family:Helvetica;font-size:10px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-90, 7.173438, 83.908125)" x="7.173438" y="83.908125">true labels</text>
+    </g>
+   </g>
+   <g id="text_9">
+    <text style="fill:#262626;font-family:Helvetica;font-size:10px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 76.14375, 40.252656)" x="76.14375" y="40.252656">220</text>
+   </g>
+   <g id="text_10">
+    <text style="fill:#262626;font-family:Helvetica;font-size:10px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 169.14375, 40.252656)" x="169.14375" y="40.252656">715</text>
+   </g>
+   <g id="text_11">
+    <text style="fill:#262626;font-family:Helvetica;font-size:10px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 262.14375, 40.252656)" x="262.14375" y="40.252656">103</text>
+   </g>
+   <g id="text_12">
+    <text style="fill:#262626;font-family:Helvetica;font-size:10px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 76.14375, 86.452656)" x="76.14375" y="86.452656">188</text>
+   </g>
+   <g id="text_13">
+    <text style="fill:#ffffff;font-family:Helvetica;font-size:10px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 169.14375, 86.452656)" x="169.14375" y="86.452656">1871</text>
+   </g>
+   <g id="text_14">
+    <text style="fill:#262626;font-family:Helvetica;font-size:10px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 262.14375, 86.452656)" x="262.14375" y="86.452656">341</text>
+   </g>
+   <g id="text_15">
+    <text style="fill:#262626;font-family:Helvetica;font-size:10px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 76.14375, 132.652656)" x="76.14375" y="132.652656">50</text>
+   </g>
+   <g id="text_16">
+    <text style="fill:#262626;font-family:Helvetica;font-size:10px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 169.14375, 132.652656)" x="169.14375" y="132.652656">838</text>
+   </g>
+   <g id="text_17">
+    <text style="fill:#262626;font-family:Helvetica;font-size:10px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 262.14375, 132.652656)" x="262.14375" y="132.652656">600</text>
+   </g>
+   <g id="text_18">
+    <text style="font-family:Helvetica;font-size:12px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 169.14375, 8.608125)" x="169.14375" y="8.608125">Count GaussianNB 45</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p689f4ac8bd">
+   <rect height="138.6" width="279" x="29.64375" y="14.608125"/>
+  </clipPath>
+ </defs>
+</svg>

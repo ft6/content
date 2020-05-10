@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with matplotlib (https://matplotlib.org/) -->
+<svg height="182.997188pt" version="1.1" viewBox="0 0 308.64375 182.997188" width="308.64375pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+*{stroke-linecap:butt;stroke-linejoin:round;white-space:pre;}
+  </style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 182.997188 
+L 308.64375 182.997188 
+L 308.64375 0 
+L 0 0 
+z
+" style="fill:#ffffff;"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 29.64375 153.33 
+L 308.64375 153.33 
+L 308.64375 14.73 
+L 29.64375 14.73 
+z
+" style="fill:#ffffff;"/>
+   </g>
+   <g id="QuadMesh_1">
+    <path clip-path="url(#p2b777b9186)" d="M 29.64375 14.73 
+L 122.64375 14.73 
+L 122.64375 60.93 
+L 29.64375 60.93 
+L 29.64375 14.73 
+" style="fill:#d0e1f2;"/>
+    <path clip-path="url(#p2b777b9186)" d="M 122.64375 14.73 
+L 215.64375 14.73 
+L 215.64375 60.93 
+L 122.64375 60.93 
+L 122.64375 14.73 
+" style="fill:#ccdff1;"/>
+    <path clip-path="url(#p2b777b9186)" d="M 215.64375 14.73 
+L 308.64375 14.73 
+L 308.64375 60.93 
+L 215.64375 60.93 
+L 215.64375 14.73 
+" style="fill:#f2f8fd;"/>
+    <path clip-path="url(#p2b777b9186)" d="M 29.64375 60.93 
+L 122.64375 60.93 
+L 122.64375 107.13 
+L 29.64375 107.13 
+L 29.64375 60.93 
+" style="fill:#e6f0f9;"/>
+    <path clip-path="url(#p2b777b9186)" d="M 122.64375 60.93 
+L 215.64375 60.93 
+L 215.64375 107.13 
+L 122.64375 107.13 
+L 122.64375 60.93 
+" style="fill:#0e58a2;"/>
+    <path clip-path="url(#p2b777b9186)" d="M 215.64375 60.93 
+L 308.64375 60.93 
+L 308.64375 107.13 
+L 215.64375 107.13 
+L 215.64375 60.93 
+" style="fill:#e1edf8;"/>
+    <path clip-path="url(#p2b777b9186)" d="M 29.64375 107.13 
+L 122.64375 107.13 
+L 122.64375 153.33 
+L 29.64375 153.33 
+L 29.64375 107.13 
+" style="fill:#f5f9fe;"/>
+    <path clip-path="url(#p2b777b9186)" d="M 122.64375 107.13 
+L 215.64375 107.13 
+L 215.64375 153.33 
+L 122.64375 153.33 
+L 122.64375 107.13 
+" style="fill:#bdd7ec;"/>
+    <path clip-path="url(#p2b777b9186)" d="M 215.64375 107.13 
+L 308.64375 107.13 
+L 308.64375 153.33 
+L 215.64375 153.33 
+L 215.64375 107.13 
+" style="fill:#a5cde3;"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path d="M 0 0 
+L 0 3.5 
+" id="mb67a2a00b8" style="stroke:#000000;stroke-width:0.8;"/>
+      </defs>
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="76.14375" xlink:href="#mb67a2a00b8" y="153.33"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-family:Helvetica;font-size:10px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 76.14375, 167.503438)" x="76.14375" y="167.503438">negative</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="169.14375" xlink:href="#mb67a2a00b8" y="153.33"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-family:Helvetica;font-size:10px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 169.14375, 167.503438)" x="169.14375" y="167.503438">neutral</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="262.14375" xlink:href="#mb67a2a00b8" y="153.33"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-family:Helvetica;font-size:10px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 262.14375, 167.503438)" x="262.14375" y="167.503438">positive</text>
+     </g>
+    </g>
+    <g id="text_4">
+     <text style="font-family:Helvetica;font-size:10px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 169.14375, 180.912813)" x="169.14375" y="180.912813">predicted labels</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_4">
+      <defs>
+       <path d="M 0 0 
+L -3.5 0 
+" id="mb1113356db" style="stroke:#000000;stroke-width:0.8;"/>
+      </defs>
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="29.64375" xlink:href="#mb1113356db" y="37.83"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-family:Helvetica;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(20.43125 72.047969)rotate(-90)">negative</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_5">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="29.64375" xlink:href="#mb1113356db" y="84.03"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-family:Helvetica;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(20.559375 111.016719)rotate(-90)">neutral</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_6">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="29.64375" xlink:href="#mb1113356db" y="130.23"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font-family:Helvetica;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(20.559375 160.547969)rotate(-90)">positive</text>
+     </g>
+    </g>
+    <g id="text_8">
+     <text style="font-family:Helvetica;font-size:10px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-90, 7.173438, 84.03)" x="7.173438" y="84.03">true labels</text>
+    </g>
+   </g>
+   <g id="text_9">
+    <text style="fill:#262626;font-family:Helvetica;font-size:10px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 76.14375, 40.374531)" x="76.14375" y="40.374531">467</text>
+   </g>
+   <g id="text_10">
+    <text style="fill:#262626;font-family:Helvetica;font-size:10px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 169.14375, 40.374531)" x="169.14375" y="40.374531">510</text>
+   </g>
+   <g id="text_11">
+    <text style="fill:#262626;font-family:Helvetica;font-size:10px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 262.14375, 40.374531)" x="262.14375" y="40.374531">61</text>
+   </g>
+   <g id="text_12">
+    <text style="fill:#262626;font-family:Helvetica;font-size:10px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 76.14375, 86.574531)" x="76.14375" y="86.574531">199</text>
+   </g>
+   <g id="text_13">
+    <text style="fill:#ffffff;font-family:Helvetica;font-size:10px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 169.14375, 86.574531)" x="169.14375" y="86.574531">1947</text>
+   </g>
+   <g id="text_14">
+    <text style="fill:#262626;font-family:Helvetica;font-size:10px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 262.14375, 86.574531)" x="262.14375" y="86.574531">254</text>
+   </g>
+   <g id="text_15">
+    <text style="fill:#262626;font-family:Helvetica;font-size:10px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 76.14375, 132.774531)" x="76.14375" y="132.774531">35</text>
+   </g>
+   <g id="text_16">
+    <text style="fill:#262626;font-family:Helvetica;font-size:10px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 169.14375, 132.774531)" x="169.14375" y="132.774531">638</text>
+   </g>
+   <g id="text_17">
+    <text style="fill:#262626;font-family:Helvetica;font-size:10px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 262.14375, 132.774531)" x="262.14375" y="132.774531">815</text>
+   </g>
+   <g id="text_18">
+    <text style="font-family:Helvetica;font-size:12px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 169.14375, 8.73)" x="169.14375" y="8.73">Tfidf LogisticRegression 15000</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p2b777b9186">
+   <rect height="138.6" width="279" x="29.64375" y="14.73"/>
+  </clipPath>
+ </defs>
+</svg>
